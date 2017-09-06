@@ -33,7 +33,7 @@
        (fg2 "#ebebeb")
        (fg3 "#d6d6d6")
        (fg4 "#c2c2c2")
-       (bg1 "#2e2e3e")
+       (bg1 "#2e2e2e")
        (bg2 "#3f3f4d")
        (bg3 "#4f4f5d")
        (bg4 "#60606c")
